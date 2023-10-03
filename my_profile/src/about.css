@@ -1,0 +1,18 @@
+
+.about-container {
+    font-family: Arial, sans-serif;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    line-height: 2;
+}
+
+
+.text-container{
+    margin-top: 40px;
+}
+
+.head{
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+}
